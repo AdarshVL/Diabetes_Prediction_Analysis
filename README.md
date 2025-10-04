@@ -8,6 +8,10 @@ The purpose of this app is to **support early awareness and detection**, but it 
 
 This project is a user-friendly web application designed to help individuals assess their likelihood of having diabetes based on medical inputs. It uses a Logistic Regression model to make predictions and provides additional interactive features for a complete user experience.
 
+# 📂 Dataset
+A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Diabetes_Prediction_Analysis/blob/main/Diabetes_Prediction_Dataset.csv)
+
+
 # 🎯 Key Features
 
 🔐 User Authentication: Sign up or log in to access the app.
@@ -84,3 +88,5 @@ Other Features: PDF generation, Chatbot integration
         🔁 Predict again
 
 5.Use the chatbot any time for helpful advice.
+
+
