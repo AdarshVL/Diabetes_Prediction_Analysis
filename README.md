@@ -11,6 +11,8 @@ This project is a user-friendly web application designed to help individuals ass
 # 📂 Dataset
 A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Diabetes_Prediction_Analysis/blob/main/Diabetes_Prediction_Dataset.csv)
 
+# 📂 Report 
+Project report included: [View Dataset](https://github.com/AdarshVL/Diabetes_Prediction_Analysis/blob/main/Diabetes_Prediction_Report.pdf)
 
 # 🎯 Key Features
 
