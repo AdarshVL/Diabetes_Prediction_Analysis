@@ -14,6 +14,9 @@ A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Diabete
 # 📂 Report 
 Project report included: [View Dataset](https://github.com/AdarshVL/Diabetes_Prediction_Analysis/blob/main/Diabetes_Prediction_Report.pdf)
 
+# 📂 PPT  
+Project PPT included: [View Dataset](https://github.com/AdarshVL/Diabetes_Prediction_Analysis/blob/main/Diabetes_Prediction_PPT.pdf)
+
 # 🎯 Key Features
 
 🔐 User Authentication: Sign up or log in to access the app.
