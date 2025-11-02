@@ -94,7 +94,7 @@ Other Features: PDF generation, Chatbot integration
 
 5.Use the chatbot any time for helpful advice.
 
---- 
+---
 
 ## 👨‍💻 Author
 
@@ -103,7 +103,7 @@ Other Features: PDF generation, Chatbot integration
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
 
 📧 [Email](adarshlilhare@example.com)
 
@@ -114,4 +114,3 @@ Other Features: PDF generation, Chatbot integration
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
-
